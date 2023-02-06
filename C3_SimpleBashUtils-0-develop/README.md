@@ -3,8 +3,6 @@ Educational project SimpleBashUtils from organization «School 21».
 
 Development of Bash text utilities: cat, grep.
 
-### grep History
-
 ## Task
 
 - The programs must be developed in C language of C11 standard using gcc compiler.
@@ -36,7 +34,7 @@ You need to develop the grep utility:
 Bonus assignment for extra points. You need to develop the grep utility:
 - Support of all flags, including: `-h`, `-s`, `-f`, `-o`
 
-## Part 4. Bonus. Grep
+## Bonus. Grep
 
 Bonus assignment for extra points. You need to develop the grep utility:
 - Support of all flags, including their _pair_ combinations (e.g. `-iv`, `-in`)
